@@ -4,9 +4,4 @@ import {createContext} from 'react';
 
 
 
-export const ProductContext = () => {
-
-    
-
-
-}
+export const ProductContext = createContext();
